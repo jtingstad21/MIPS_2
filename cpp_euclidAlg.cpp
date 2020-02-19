@@ -38,7 +38,7 @@ int gcdOrdered(int largerInt, int smallerInt) {
 }
 
 int main() {
-	vector<int> primes;
+	/*vector<int> primes;
 	primes.push_back(2);
 	primes.push_back(3);
 	for (int i = 4; i < 255; i++) {
@@ -51,5 +51,5 @@ int main() {
 			else
 				
 		}
-	}
+	}*/
 }
